@@ -6,17 +6,21 @@
       "level": 900,
       "tags": [
         {
-          "text": "Hawk Tuah",
-          "color": [255, 255, 255]
+          "text": "Skibidi INF",
+          "color": [
+            1,
+            14,
+            252
           ]
-       }
-    ]
-  },
-  "BlacklistedUsers": {},
+        }
+      ]
+    }
+  ],
+  "BlacklistedUsers": [],
   "Announcement": {
-    "text": "Hi pookie",
-    "expiretime": 1000,
+    "text": "",
+    "expiretime": 0,
     "targets": "all"
   },
-  "KillVape": false,
+  "KillVape": false
 }
